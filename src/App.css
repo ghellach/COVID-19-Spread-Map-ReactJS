@@ -1,0 +1,11 @@
+.map{
+  height: 70vh;
+}
+
+.request-popup .leaflet-popup-content-wrapper {
+  border-radius: 0px;
+}
+
+body {
+  font-family: 'Sen', sans-serif;
+}
